@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mamba-op&label=Profile%20views&color=0e75b6&style=flat" alt="mamba-op" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mamba-op" alt="mamba-op" /></a> </p>
-
 - 🔭 I’m currently working on [QBCore Finval Version](https://qbcorestore.com/servers)
 
 - 🌱 I’m currently learning **Java, C#, Python**
