@@ -23,7 +23,7 @@
 <p align="left">
 <a href="https://fb.com/zishan360" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="zishan360" height="30" width="40" /></a>
 <a href="https://instagram.com/qbcorestore" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="qbcorestore" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/mamba op" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="mamba op" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@MamBa_Op" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="mamba op" height="30" width="40" /></a>
 <a href="https://discord.gg/gCQx499JYY" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="gCQx499JYY" height="30" width="40" /></a>
 </p>
 
