@@ -3,19 +3,19 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mamba-op&label=Profile%20views&color=0e75b6&style=flat" alt="mamba-op" /> </p>
 
-- 🔭 I’m currently working on [QBCore Finval Version](https://qbcorestore.com/servers)
+- 🔭 I’m currently working on [QBCore Finval Version](https://mambaop.com/servers)
 
 - 🌱 I’m currently learning **Java, C#, Python**
 
-- 👨‍💻 All of my projects are available at [https://qbcorestore.com](https://qbcorestore.com)
+- 👨‍💻 All of my projects are available at [https://mambaop.com](https://mambaop.com)
 
-- 📝 I regularly write articles on [https://qbcorestore.com](https://qbcorestore.com)
+- 📝 I regularly write articles on [https://mambaop.com](https://mambaop.com)
 
 - 💬 Ask me about **.Lua, C#, html, css**
 
 - 📫 How to reach me **https://discord.gg/gCQx499JYY**
 
-- 📄 Know about my experiences [https://qbcorestore.com](https://qbcorestore.com)
+- 📄 Know about my experiences [https://mambaop.com](https://mambaop.com)
 
 - ⚡ Fun fact **I am still learning**
 
