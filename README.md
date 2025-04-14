@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mamba-op&label=Profile%20views&color=0e75b6&style=flat" alt="mamba-op" /> </p>
 
-- 🔭 I’m currently working on [QBCore Finval Version](https://mambaop.com/servers)
+- 🔭 I’m currently working on [QBCore Finval Version](https://mambaop.com/complete-server)
 
 - 🌱 I’m currently learning **Java, C#, Python**
 
