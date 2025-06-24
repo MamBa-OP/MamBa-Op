@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **.Lua, C#, html, css**
 
-- 📫 How to reach me **https://discord.gg/gCQx499JYY**
+- 📫 How to reach me **[Discord](https://discord.gg/qbcorestore)**
 
 - 📄 Know about my experiences [https://qbcorestore.com](https://qbcorestore.com)
 
